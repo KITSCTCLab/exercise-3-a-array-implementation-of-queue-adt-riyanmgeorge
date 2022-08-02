@@ -36,7 +36,7 @@ class Solution:
         Returns:
           True if it is empty, else returns False.
         """
-        # Write your code here
+        
 
     def is_stack_full(self):
         """
