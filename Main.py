@@ -44,7 +44,7 @@ class Solution:
         Returns:
           True if it is full, else returns False.
         """
-        # Write your code here
+        
 
     def is_queue_full(self):
         """
