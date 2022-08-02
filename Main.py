@@ -52,7 +52,7 @@ class Solution:
         Returns:
           True if it is full, else returns False.
         """
-        # Write your code here
+        
 
     def push_character(self, character):
         """
