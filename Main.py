@@ -76,7 +76,7 @@ class Solution:
         Returns:
           The data that is popped out if the stack is not empty.
         """
-        # Write your code here
+        
 
     def dequeue_character(self):
         """
