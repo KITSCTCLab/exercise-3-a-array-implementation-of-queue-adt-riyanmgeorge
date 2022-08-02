@@ -68,7 +68,7 @@ class Solution:
         Arguments:
             character: A character that will be enqueued to queue.
         """
-        # Write your code here
+       
 
     def pop_character(self):
         """
