@@ -60,7 +60,7 @@ class Solution:
         Arguments:
             character: A character that will be pushed to the stack.
         """
-        # Write your code here
+       
 
     def enqueue_character(self, character):
         """
