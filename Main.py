@@ -84,7 +84,7 @@ class Solution:
         Returns:
           The data that is dequeued if the queue is not empty.
         """
-        # Write your code here
+        
 
 
 # read the string text
